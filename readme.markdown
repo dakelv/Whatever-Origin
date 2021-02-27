@@ -7,3 +7,5 @@ For example, right now try and feed https://bitcointalk.org/ into anyorigin and 
 Having recently discovered Heroku and Play!, I found that deploying a simple server app is no longer a big deal, and so made out to develop a simple, open source alternative to Any Origin.
 
 [Live site](http://whateverorigin.org/).
+
+Added by dakelv - test change config
